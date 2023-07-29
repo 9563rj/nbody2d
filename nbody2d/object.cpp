@@ -68,3 +68,11 @@ double Object::getY() {
 double Object::getMass() {
 	return mass;
 }
+
+double Object::getVelocityX() {
+	return velocityX;
+}
+
+double Object::getVelocityY() {
+	return velocityY;
+}

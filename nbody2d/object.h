@@ -16,6 +16,8 @@ public:
 	double getX();
 	double getY();
 	double getMass();
+	double getVelocityX();
+	double getVelocityY();
 private:
 	double posX;
 	double posY;
